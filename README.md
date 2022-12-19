@@ -11,12 +11,17 @@
 
 #### To translate words, sentences from Japanese Language to English:
   
-  - click Translate
+  - click the button -> Translate
 
 
 #### To see the sentiment analysis of the translation:
   
-  - click Sentiment
+  - click the button -> Sentiment
+
+
+#### To clear input:
+  
+  - click the button -> Clear
 
 
 #### To clone this repository use:
